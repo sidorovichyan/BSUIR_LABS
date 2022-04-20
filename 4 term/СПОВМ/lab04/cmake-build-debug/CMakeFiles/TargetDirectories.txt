@@ -1,0 +1,3 @@
+/home/sidorovich/Рабочий стол/SPOVM/lab04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sidorovich/Рабочий стол/SPOVM/lab04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sidorovich/Рабочий стол/SPOVM/lab04/cmake-build-debug/CMakeFiles/lab04.dir
